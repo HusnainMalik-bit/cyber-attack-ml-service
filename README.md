@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Cyber Attack Prediction ML Service
 
 ## 📺 Video Tutorial
@@ -462,3 +463,6 @@ For issues or questions:
 ---
 
 **Note**: Remember to never commit sensitive information like AWS credentials, API keys, or passwords. Use environment variables or AWS Secrets Manager for sensitive configuration.
+=======
+# cyber-attack-ml-service
+>>>>>>> 1e610a0507d440870a83b9feaced23e3c42531a4
