@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Initial pipeline trigger
 # 🛡️ Cyber Attack Prediction ML Service
 
 ## 📺 Video Tutorial
